@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 require_once("shape.php");
 
 class Triangle extends Shape {
